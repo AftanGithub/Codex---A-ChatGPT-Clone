@@ -44,6 +44,17 @@ body {
   display: none;
 }
 
+.header__app{
+ width: 100%;
+ text-align: right;
+ padding: 10px;
+}
+
+.header__app img{
+  width: 50px;
+  
+}
+
 .wrapper {
   width: 100%;
   padding: 15px;
